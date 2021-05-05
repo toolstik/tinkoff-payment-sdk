@@ -1,5 +1,5 @@
 {
-  "name": "@jfkz/tinkoff-payment-sdk",
+  "name": "@toolstik/tinkoff-payment-sdk",
   "version": "0.6.0",
   "description": "Tinkoff Payment SDK for Node.js",
   "scripts": {
@@ -17,13 +17,14 @@
     "sdk",
     "node"
   ],
-  "author": "mike <mike@re-coders.com> (https://re-coders.com)",
+  "author": "Viktor Tolstik <tolstik.va@gmail.com>",
   "contributors": [
-    "Slava Fomin II <slava@fomin.io> (https://slava.fomin.io)"
+    "Slava Fomin II <slava@fomin.io> (https://slava.fomin.io)",
+    "mike <mike@re-coders.com> (https://re-coders.com)"
   ],
-  "homepage": "https://github.com/jfkz/tinkoff-payment-sdk",
-  "repository": "https://github.com/jfkz/tinkoff-payment-sdk.git",
-  "bugs": "https://github.com/jfkz/tinkoff-payment-sdk/issues",
+  "homepage": "https://github.com/toolstik/tinkoff-payment-sdk",
+  "repository": "https://github.com/toolstik/tinkoff-payment-sdk.git",
+  "bugs": "https://github.com/toolstik/tinkoff-payment-sdk/issues",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",

@@ -1,9 +1,9 @@
 
-# @jfkz/tinkoff-payment-sdk
+# @toolstik/tinkoff-payment-sdk
 
 <!-- NPM Badge -->
-<a href="https://www.npmjs.com/package/@jfkz/tinkoff-payment-sdk">
-  <img src="https://badge.fury.io/js/%40jfkz%2Ftinkoff-payment-sdk.svg" alt="npm version" height="18">
+<a href="https://www.npmjs.com/package/@toolstik/tinkoff-payment-sdk">
+  <img src="https://badge.fury.io/js/%40toolstik%2Ftinkoff-payment-sdk.svg" alt="npm version" height="18">
 </a>
 
 <!-- MIT License Badge -->
@@ -35,7 +35,7 @@ A Node.js SDK for Tinkoff Bank's Payment API.
 
 Install the package:
 
-`npm i -S @jfkz/tinkoff-payment-sdk`
+`npm i -S @toolstik/tinkoff-payment-sdk`
 
 Install the [Got HTTP client][Got]
 (if you are not planning to provide custom implementation):
@@ -61,7 +61,7 @@ CryptoPro official manual: https://www.cryptopro.ru/sites/default/files/products
 
 ## License (MIT)
 
-Copyright (c) 2020 jfkz, Slava Fomin II
+Copyright (c) 2020 Viktor Tolstik, jfkz, Slava Fomin II
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
